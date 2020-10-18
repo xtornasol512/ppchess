@@ -1,0 +1,7 @@
+# Fast API
+fastapi==0.61.1
+uvicorn==0.12.1
+
+# Mongo
+pymongo==3.11.0
+dnspython==2.0.0

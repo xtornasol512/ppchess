@@ -1,0 +1,10 @@
+# Temporary files
+*~
+# Python compiled files
+*.pyc
+*__py__
+# Environ variables
+.env
+# Python Enviroment
+.venv/
+
